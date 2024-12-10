@@ -8,7 +8,7 @@ const Container = styled.div`
   padding-bottom: 50px;
   height: 100%;
   justify-content: center;
-  align-items: center;
+  align-items: center; 
   overflow-y: scroll;
   display: flex;
   gap: 20px;
