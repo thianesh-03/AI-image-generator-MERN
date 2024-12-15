@@ -3,7 +3,7 @@ import styled from "styled-components";
 import GenerateImage from "../components/form/GenerateImage";
 import GeneratedImageCard from "../components/cards/GeneratedImageCard";
 
-const Container = styled.div`
+const Container = styled.div` 
   padding: 20px 30px;
   padding-bottom: 50px;
   height: 100%;
